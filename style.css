@@ -1,0 +1,11 @@
+#map {
+ 	margin:0px;
+ 	height:100%;
+ 	width:100%;
+ 	position:fixed;
+ }
+ #box {
+ 	width:350px;
+ 	height:350px;
+ 	color:white;
+}
